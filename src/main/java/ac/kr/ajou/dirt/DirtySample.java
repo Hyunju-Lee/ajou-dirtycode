@@ -1,5 +1,6 @@
 package ac.kr.ajou.dirt;
 
+//숙제********************code를 이해하고 test code를 만들고 refactoring을 한다. 최종코드를 작성하고, README에 refactoring한 방법을 쓰자.
 class DirtySample {
     Item[] items;
 
